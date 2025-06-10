@@ -54,9 +54,9 @@ Atualmente curso **Pós-Graduação em Data Analytics na FIAP**, com foco em mod
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
-- 💬 Email: seu.email@exemplo.com  
-- 📂 [Portfólio de Projetos](https://github.com/seuusuario?tab=repositories)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-macena/)  
+- 💬 Email: gustavoaraujomacena@gmail.com  
+- 📂 [Portfólio de Projetos](https://github.com/gustmacena)  
 
 ---
 
