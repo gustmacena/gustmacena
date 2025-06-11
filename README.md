@@ -63,7 +63,6 @@ Atualmente curso **Pós-Graduação em Data Analytics na FIAP**, com foco em mod
 ## ⚡ Curiosidades
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS)  
-- 🎮 Faço lives na Twitch sobre programação e produtividade  
 - 💡 Acredito no poder dos dados para transformar negócios e pessoas  
 
 ---
