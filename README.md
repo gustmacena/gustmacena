@@ -28,7 +28,7 @@ Atualmente curso **Pós-Graduação em Data Analytics na FIAP**, com foco em mod
 **Automação & RPA**
 - SAP GUI Scripting (VBA)
 - Automação com Python (Selenium, Tkinter, openpyxl)
-- n8n para automações de fluxo conversacional e integração de dados
+- N8N para automações de fluxo conversacional e integração de dados
 
 **Ferramentas e Conceitos**
 - Git & GitHub
