@@ -39,7 +39,7 @@ Atualmente curso **Pós-Graduação em Data Analytics na FIAP**, com foco em mod
 
 ---
 
-## 🚀 Projetos em Destaque
+<!--## 🚀 Projetos em Destaque
 
 🔗 [Painel OTD e BID Ótimo (Power BI)](https://github.com/seuusuario/projeto-otd)  
 📊 Dashboard logístico com indicadores de entrega e performance dos transportes.
@@ -49,7 +49,7 @@ Atualmente curso **Pós-Graduação em Data Analytics na FIAP**, com foco em mod
 
 🔗 [Análise Exportação de Vinhos (FIAP Tech Challenge)](https://github.com/seuusuario/fiap-wine-export)  
 🍷 Projeto completo de Data Analytics com dados climáticos, econômicos e tendências de mercado.
-
+-->
 ---
 
 ## 📫 Onde me encontrar
