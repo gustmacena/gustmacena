@@ -6,66 +6,76 @@
 
 ---
 
-## 💼 Sobre mim
+<h2 align="left">📌 Sobre mim</h2>
 
-Sou um profissional com sólida experiência em **Análise de Dados**, **Automação de Processos** e **Inteligência Logística**, atualmente atuando na **Bauducco**. Tenho paixão por transformar dados em **decisões estratégicas** e promover melhorias contínuas por meio da tecnologia.
+###
 
-Atualmente curso **Pós-Graduação em Data Analytics na FIAP**, com foco em modelagem estatística, Machine Learning e ferramentas de visualização.
+<p align="left">• Analista de Dados na @Bauducco<br>• Pós-graduando em Data Analytics na @FIAP<br>• Experiência em Análise de Dados, Automação de Processos e Inteligência Logística<br>• Foco em decisões estratégicas com dados e melhorias contínuas com tecnologia.<br>• Visualização com Power BI e Excel Avançado (Tabelas Dinâmicas, VBA)<br>• Automação com SAP GUI Scripting (VBA) e Python (Selenium, openpyxl, Tkinter)<br>• Git & GitHub como base de versionamento e colaboração<br>• Formado em Análise e Desenvolvimento de Sistemas<br>• Apaixonado por dados e seu poder de transformar negócios e pessoas</p>
 
----
+###
 
-## 🛠️ Habilidades e Tecnologias
+<h2 align="left">👨‍💻 Minhas Tecnologias</h2>
 
-**Linguagens & Análise de Dados**
-- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
-- SQL (consultas otimizadas, joins, CTEs)
-- DAX & Power Query (Power BI)
+###
 
-**Visualização de Dados**
-- Power BI (dashboards interativos, KPIs logísticos, análises temporais)
-- Excel Avançado (Tabelas Dinâmicas, VBA, fórmulas complexas)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-**Automação & RPA**
-- SAP GUI Scripting (VBA)
-- Automação com Python (Selenium, Tkinter, openpyxl)
-- N8N para automações de fluxo conversacional e integração de dados
+###
 
-**Ferramentas e Conceitos**
-- Git & GitHub
-- Machine Learning supervisionado (SVM, KNN, Random Forest)
-- Séries Temporais (forecast, ARIMA)
-- Análise Estatística
-- Chatbots com dados estruturados
+<h2 align="left">📊 Minhas Estatísticas</h2>
 
----
+###
 
-<!--## 🚀 Projetos em Destaque
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustmacena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustmacena&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustmacena&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-🔗 [Painel OTD e BID Ótimo (Power BI)](https://github.com/seuusuario/projeto-otd)  
-📊 Dashboard logístico com indicadores de entrega e performance dos transportes.
+###
 
-🔗 [Automação de Carteira SAP (Python + VBA)](https://github.com/seuusuario/carteira-sap)  
-📥 Automatização da extração e consolidação de pedidos SAP com salvamento inteligente em Excel.
+<h2 align="left">Mídia Social</h2>
 
-🔗 [Análise Exportação de Vinhos (FIAP Tech Challenge)](https://github.com/seuusuario/fiap-wine-export)  
-🍷 Projeto completo de Data Analytics com dados climáticos, econômicos e tendências de mercado.
--->
----
+###
 
-## 📫 Onde me encontrar
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-macena/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gustmacena_?igsh=ZDRlNm9rcndlZjVk&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/an2KPT4a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-macena/)  
-- 💬 Email: gustavoaraujomacena@gmail.com  
-- 📂 [Portfólio de Projetos](https://github.com/gustmacena)  
+###
 
----
+<h2 align="left">Obrigado por visitar meu perfil!</h2>
 
-## ⚡ Curiosidades
+###
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS)  
-- 💡 Acredito no poder dos dados para transformar negócios e pessoas  
+<p align="left">Se gostar de algum projeto, deixe uma ⭐ ou entre em contato para trocarmos ideias! 😄</p>
 
----
-
-### Obrigado por visitar meu perfil!  
-Se gostar de algum projeto, deixe uma ⭐ ou entre em contato para trocarmos ideias! 😄
+###
